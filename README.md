@@ -1,6 +1,6 @@
 # AREESH
-
-# Week 7 Group Project
+ - arresh.herokuapp.com - the speech recognition doesent work on this site because heroku doesent allow permissions
+# Final Group Project
 
 This app uses speech-recognition technology to help you test your memory and sharpen your spelling skills!
 
